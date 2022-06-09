@@ -51,3 +51,4 @@ tvg-language="English"
 美国
 半岛新闻
 红河综合台
+(576p)
